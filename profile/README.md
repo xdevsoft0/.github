@@ -9,26 +9,24 @@
 
 <!-- ===================== TOP ANIMATION & BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+XDEVSOFT0!;Visionaries+in+Code+and+Creativity;Home+of+the+Next+Big+Thing!&font=Fira%20Code&center=true&vCenter=true&width=900&height=60&duration=3500&pause=1200" alt="XDEVSOFT0 Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=800&background=3FFFFF00&center=true&width=1035&height=56&lines=%F0%9F%9A%80+Welcome+to+the+Official+XDEVSOFT+Organization!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Where+Ideas+Become+Innovation;%F0%9F%8C%8D+Building+the+Future%2C+One+Line+at+a+Time!" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0BKCwY8WtrH8Kp1e/giphy.gif" width="350" alt="Animated Banner" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&width=800&lines=🚀+Welcome+to+the+Official+XDEVSOFT0+Organization!;👨‍💻+Where+Ideas+Become+Innovation;🌍+Building+the+Future,+One+Line+at+a+Time!" />
+  <img src="https://avatars.githubusercontent.com/u/212230972" width="350" alt="Animated Banner" />
 </p>
 
 <!-- ===================== SOCIAL & CONTACT ===================== -->
 <p align="center">
-  <a href="mailto:xdevsoft0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:xdevsoft@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Us-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/xdevsoft0"><img src="https://img.shields.io/github/followers/xdevsoft0?label=Follow%20Us&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/company/xdevsoft0"><img src="https://img.shields.io/badge/LinkedIn-xdevsoft0-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/xdevsoft0"><img src="https://img.shields.io/badge/Twitter-@xdevsoft0-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/company/104334345"><img src="https://img.shields.io/badge/LinkedIn-xdevsoft0-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/xdevsoft"><img src="https://img.shields.io/badge/Twitter-@xdevsoft0-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 <!-- ===================== ORGANIZATION SLOGAN ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🔥+We+Code+the+Impossible+;+✨+We+Dream+the+Unimaginable+;+🤖+AI+is+in+our+DNA!&font=Fira%20Code&center=true&width=900&height=45&duration=3500&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=4000&pause=800&background=3FFFFF00&center=true&width=435&height=56&lines=%F0%9F%94%A5We+Code+the+Impossible;%E2%9C%A8+We+Dream+the+Unimaginable;%F0%9F%A4%96+AI+is+in+our+DNA" />
 </h1>
 
 ---
@@ -37,17 +35,18 @@
 <h2 align="center">🌟 Our Legendary Team 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/afaqxdev"><img src="https://avatars.githubusercontent.com/u/102097043?v=4" width="120" style="border-radius:50%;border:4px solid #36BCF7;margin:12px" alt="afaqxdev"/></a>
-  <a href="https://github.com/ubaidxdev"><img src="https://avatars.githubusercontent.com/u/105983981?v=4" width="120" style="border-radius:50%;border:4px solid #F7A736;margin:12px" alt="ubaidxdev"/></a>
-  <a href="https://github.com/uzairxdev"><img src="https://avatars.githubusercontent.com/u/118158696?v=4" width="120" style="border-radius:50%;border:4px solid #6dc24b;margin:12px" alt="uzairxdev"/></a>
-  <a href="https://github.com/Atiqrehman3054"><img src="https://avatars.githubusercontent.com/u/119864044?v=4" width="120" style="border-radius:50%;border:4px solid #ae33be;margin:12px" alt="Atiqrehman3054"/></a>
+  <a href="https://github.com/Atiqrehman3054"><img src="https://avatars.githubusercontent.com/u/45535886?v=4" width="120" style="border-radius:50%;border:4px solid #ae33be;margin:12px" alt="Atiqrehman3054"/></a>
+  <a href="https://github.com/afaqxdev"><img src="https://avatars.githubusercontent.com/u/117840917?v=4" width="120" style="border-radius:50%;border:4px solid #36BCF7;margin:12px" alt="afaqxdev"/></a>
+  <a href="https://github.com/ubaidxdev"><img src="https://avatars.githubusercontent.com/u/92709017?v=4" width="120" style="border-radius:50%;border:4px solid #F7A736;margin:12px" alt="ubaidxdev"/></a>
+  <a href="https://github.com/uzairxdev"><img src="https://avatars.githubusercontent.com/u/117645470?v=4" width="120" style="border-radius:50%;border:4px solid #6dc24b;margin:12px" alt="uzairxdev"/></a>
 </p>
 <p align="center">
   <b>
+    <a href="https://github.com/Atiqrehman3054">Atiqrehman3054</a> |
     <a href="https://github.com/afaqxdev">afaqxdev</a> |
     <a href="https://github.com/ubaidxdev">ubaidxdev</a> |
     <a href="https://github.com/uzairxdev">uzairxdev</a> |
-    <a href="https://github.com/Atiqrehman3054">Atiqrehman3054</a>
+    
   </b>
 </p>
 <p align="center">
@@ -58,35 +57,54 @@
 
 <!-- ===================== WHAT WE DO ===================== -->
 <h2 align="center">🚀 What We Do</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
-<ul>
-  <li>🔮 <b>Full-stack product development</b> — from concept to deployment</li>
-  <li>📱 <b>Modern web & mobile apps</b> — React, Next.js, Node.js, Flutter, Dart & more</li>
-  <li>🧠 <b>AI Integration</b> — future-proof products with LLMs & automation</li>
-  <li>🤖 <b>Automation</b> — streamline workflows, bots, and business logic</li>
-  <li>📊 <b>Management Systems</b> — from CRMs to ERPs and custom dashboards</li>
-  <li>🔒 <b>Security and DevOps</b> — CI/CD, cloud, scalable deployments</li>
-  <li>🎨 <b>UI/UX Design</b> — beautiful, intuitive, and user-centric experiences</li>
-  <li>🤝 <b>Open Source Collaboration</b> — building, sharing, and growing together</li>
-  <li>💡 <b>Consultancy & Training</b> — mentoring, code reviews, and tech talks</li>
-</ul>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <ul>
+        <li>🔮 <b>Full-stack product development</b> — from concept to deployment</li>
+        <li>📱 <b>Modern web & mobile apps</b> — React, Next.js, Node.js, Flutter, Dart & more</li>
+        <li>🧠 <b>AI Integration</b> — future-proof products with LLMs & automation</li>
+        <li>🤖 <b>Automation</b> — streamline workflows, bots, and business logic</li>
+        <li>📊 <b>Management Systems</b> — from CRMs to ERPs and custom dashboards</li>
+        <li>🔒 <b>Security and DevOps</b> — CI/CD, cloud, scalable deployments</li>
+        <li>🎨 <b>UI/UX Design</b> — beautiful, intuitive, and user-centric experiences</li>
+        <li>🤝 <b>Open Source Collaboration</b> — building, sharing, and growing together</li>
+        <li>💡 <b>Consultancy & Training</b> — mentoring, code reviews, and tech talks</li>
+      </ul>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
 <!-- ===================== OUR VALUES ===================== -->
 <h2 align="center">💎 Our Core Values</h2>
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150"/>
 </p>
-<ul>
+    </td>
+    <td align="center">
+      <ul>
   <li>💥 <b>Innovation First:</b> Always on the edge of new tech.</li>
   <li>🤝 <b>Teamwork:</b> We win together, we learn together.</li>
   <li>📈 <b>Growth Mindset:</b> Every challenge is an opportunity.</li>
   <li>🎯 <b>Quality & Integrity:</b> Our code is our signature.</li>
   <li>🌍 <b>Community:</b> Giving back and supporting open-source.</li>
 </ul>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -253,51 +271,53 @@
 </p>
 
 ---
-
 <!-- ===================== INDIVIDUAL TEAM PROFILES ===================== -->
 <h2 align="center">🧑‍💻 Meet the Developers</h2>
+
 <table align="center" style="border: none;">
   <tr>
     <td align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/102097043?v=4" width="100" style="border-radius:50%;">
+      <img src="https://avatars.githubusercontent.com/u/45535886?v=4" width="100" style="border-radius:50%;">
       <br/>
-      <b><a href="https://github.com/afaqxdev">afaqxdev</a></b>
+      <b><a href="https://github.com/Atiqrehman3054">Atiq Ur Rehman</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Lead%20Developer-blue?style=flat"/>
+<!--       <img src="https://img.shields.io/badge/Role-Lead%20Full-Stack%20Developer-blue?style=flat"/> -->
+      <img src="https://img.shields.io/badge/Role-Lead%20&%20Full%20Stack%20Developer-blueviolet?style=flat"/>
       <br/>
-      <sub>Backend | DevOps | System Architecture</sub>
+      <sub>Full Stack | System Design | DevOps | Project Leadership</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/105983981?v=4" width="100" style="border-radius:50%;">
+      <img src="https://avatars.githubusercontent.com/u/117840917?v=4" width="100" style="border-radius:50%;">
       <br/>
-      <b><a href="https://github.com/ubaidxdev">ubaidxdev</a></b>
+      <b><a href="https://github.com/afaqxdev">Afaq Zahir</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Frontend%20Wizard-green?style=flat"/>
+      <img src="https://img.shields.io/badge/Role-Flutter%20&%20Product%20Developer-cyan?style=flat"/>
       <br/>
-      <sub>React | Next.js | UI/UX</sub>
+      <sub>Flutter | Dart | Product Engineering | Cross-Platform Apps</sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/118158696?v=4" width="100" style="border-radius:50%;">
+      <img src="https://avatars.githubusercontent.com/u/117645470?v=4" width="100" style="border-radius:50%;">
       <br/>
-      <b><a href="https://github.com/uzairxdev">uzairxdev</a></b>
+      <b><a href="https://github.com/uzairxdev">Muhammad Uzair</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Mobile%20Maestro-orange?style=flat"/>
+      <img src="https://img.shields.io/badge/Role-Mobile%20Expert-orange?style=flat"/>
       <br/>
-      <sub>Flutter | Android | iOS | Dart</sub>
-    </td>
+      <sub>Flutter | Android | iOS | App Store & Play Store Delivery</sub>
+    </td>    
     <td align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/119864044?v=4" width="100" style="border-radius:50%;">
+      <img src="https://avatars.githubusercontent.com/u/92709017?v=4" width="100" style="border-radius:50%;">
       <br/>
-      <b><a href="https://github.com/Atiqrehman3054">Atiqrehman3054</a></b>
+      <b><a href="https://github.com/ubaidxdev">Ubaid Ullah</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Data%20Guru-purple?style=flat"/>
+      <img src="https://img.shields.io/badge/Role-Mobile%20Engineer%20&%20Backend%20Architect-yellow?style=flat"/>
       <br/>
-      <sub>AI | ML | Data Science | LLMs</sub>
+      <sub>Flutter | Firebase | REST APIs | System Design | Architecture</sub>
     </td>
   </tr>
 </table>
 
 ---
+
 
 <!-- ===================== WHY CHOOSE XDEVSOFT0? ===================== -->
 <h2 align="center">❓ Why Choose Us?</h2>
@@ -313,21 +333,13 @@
 </p>
 
 ---
-
-<!-- ===================== PROJECT LIFECYCLE ANIMATION ===================== -->
+<!-- ===================== PROJECT LIFECYCLE GRAPH ===================== -->
 <h2 align="center">🌀 Our Project Lifecycle</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="280"/>
-</p>
-<ol>
-  <li>📝 <b>Idea</b> – Everything starts with a spark.</li>
-  <li>🎨 <b>Design</b> – Blueprints for success.</li>
-  <li>⚙️ <b>Development</b> – Where magic happens.</li>
-  <li>🧪 <b>Testing</b> – Perfection is our goal.</li>
-  <li>🚀 <b>Launch</b> – Share with the world!</li>
-  <li>🔄 <b>Iterate</b> – Always improving, always learning.</li>
-</ol>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xdevsoft0/.github/main/project_lifecycle_fixed.svg" width="100%" alt="Project Lifecycle Diagram" />
+</p>
+ ⛏️ We follow this lifecycle across every product – ensuring quality, speed, and user-first thinking in every phase.
 ---
 
 <!-- ===================== COMMUNITY & OPEN SOURCE ===================== -->
