@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card {
+      fill: #ffffff;
+      stroke: #ccc;
+      stroke-width: 2;
+      rx: 12;
+      ry: 12;
+      filter: drop-shadow(0 1px 4px rgba(0,0,0,0.1));
+    }
+    .emoji {
+      font-size: 28px;
+    }
+    .title {
+      font: bold 16px 'Segoe UI', sans-serif;
+      fill: #222;
+    }
+    .subtitle {
+      font: 13px 'Segoe UI', sans-serif;
+      fill: #555;
+    }
+    .arrow {
+      stroke: #888;
+      stroke-width: 2;
+      marker-end: url(#arrowhead);
+    }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#888"/>
+    </marker>
+  </defs>
+
+  <!-- Cards -->
+  <g transform="translate(20,40)">
+    <rect width="130" height="80" class="card"/>
+    <text x="10" y="25" class="emoji">📝</text>
+    <text x="45" y="25" class="title">Idea</text>
+    <text x="10" y="50" class="subtitle">Everything starts with a spark</text>
+  </g>
+
+  <g transform="translate(180,40)">
+    <rect width="140" height="80" class="card"/>
+    <text x="10" y="25" class="emoji">🎨</text>
+    <text x="50" y="25" class="title">Design</text>
+    <text x="10" y="50" class="subtitle">Blueprints for success</text>
+  </g>
+
+  <g transform="translate(350,40)">
+    <rect width="160" height="80" class="card"/>
+    <text x="10" y="25" class="emoji">⚙️</text>
+    <text x="50" y="25" class="title">Development</text>
+    <text x="10" y="50" class="subtitle">Where the magic happens</text>
+  </g>
+
+  <g transform="translate(540,40)">
+    <rect width="130" height="80" class="card"/>
+    <text x="10" y="25" class="emoji">🧪</text>
+    <text x="50" y="25" class="title">Testing</text>
+    <text x="10" y="50" class="subtitle">Polishing for perfection</text>
+  </g>
+
+  <g transform="translate(700,40)">
+    <rect width="130" height="80" class="card"/>
+    <text x="10" y="25" class="emoji">🚀</text>
+    <text x="50" y="25" class="title">Launch</text>
+    <text x="10" y="50" class="subtitle">Ready for the world</text>
+  </g>
+
+  <g transform="translate(860,40)">
+    <rect width="130" height="80" class="card"/>
+    <text x="10" y="25" class="emoji">🔄</text>
+    <text x="50" y="25" class="title">Iterate</text>
+    <text x="10" y="50" class="subtitle">Improve &amp; evolve</text>
+  </g>
+
+  <!-- Arrows -->
+  <line x1="150" y1="80" x2="180" y2="80" class="arrow"/>
+  <line x1="320" y1="80" x2="350" y2="80" class="arrow"/>
+  <line x1="510" y1="80" x2="540" y2="80" class="arrow"/>
+  <line x1="670" y1="80" x2="700" y2="80" class="arrow"/>
+  <line x1="830" y1="80" x2="860" y2="80" class="arrow"/>
+</svg>
