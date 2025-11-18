@@ -35,14 +35,12 @@
 <h2 align="center">🌟 Our Legendary Team 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/Atiqrehman3054"><img src="https://avatars.githubusercontent.com/u/45535886?v=4" width="120" style="border-radius:50%;border:4px solid #ae33be;margin:12px" alt="Atiqrehman3054"/></a>
   <a href="https://github.com/afaqxdev"><img src="https://avatars.githubusercontent.com/u/117840917?v=4" width="120" style="border-radius:50%;border:4px solid #36BCF7;margin:12px" alt="afaqxdev"/></a>
   <a href="https://github.com/ubaidxdev"><img src="https://avatars.githubusercontent.com/u/92709017?v=4" width="120" style="border-radius:50%;border:4px solid #F7A736;margin:12px" alt="ubaidxdev"/></a>
   <a href="https://github.com/uzairxdev"><img src="https://avatars.githubusercontent.com/u/117645470?v=4" width="120" style="border-radius:50%;border:4px solid #6dc24b;margin:12px" alt="uzairxdev"/></a>
 </p>
 <p align="center">
   <b>
-    <a href="https://github.com/Atiqrehman3054">Atiqrehman3054</a> |
     <a href="https://github.com/afaqxdev">afaqxdev</a> |
     <a href="https://github.com/ubaidxdev">ubaidxdev</a> |
     <a href="https://github.com/uzairxdev">uzairxdev</a> |
@@ -272,26 +270,16 @@
 
 ---
 <!-- ===================== INDIVIDUAL TEAM PROFILES ===================== -->
-<h2 align="center">🧑‍💻 Meet the Developers</h2>
+<h2 align="center">🧑‍💻 Meet the Team</h2>
 
 <table align="center" style="border: none;">
   <tr>
-    <td align="center" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/45535886?v=4" width="100" style="border-radius:50%;">
-      <br/>
-      <b><a href="https://github.com/Atiqrehman3054">Atiq Ur Rehman</a></b>
-      <br/>
-<!--       <img src="https://img.shields.io/badge/Role-Lead%20Full-Stack%20Developer-blue?style=flat"/> -->
-      <img src="https://img.shields.io/badge/Role-Lead%20&%20Full%20Stack%20Developer-blueviolet?style=flat"/>
-      <br/>
-      <sub>Full Stack | System Design | DevOps | Project Leadership</sub>
-    </td>
     <td align="center" valign="top">
       <img src="https://avatars.githubusercontent.com/u/117840917?v=4" width="100" style="border-radius:50%;">
       <br/>
       <b><a href="https://github.com/afaqxdev">Afaq Zahir</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Flutter%20&%20Product%20Developer-cyan?style=flat"/>
+      <img src="https://img.shields.io/badge/Role-CEO-cyan?style=flat"/>
       <br/>
       <sub>Flutter | Dart | Product Engineering | Cross-Platform Apps</sub>
     </td>
@@ -300,7 +288,7 @@
       <br/>
       <b><a href="https://github.com/uzairxdev">Muhammad Uzair</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Mobile%20Expert-orange?style=flat"/>
+      <img src="https://img.shields.io/badge/Role-CTO-orange?style=flat"/>
       <br/>
       <sub>Flutter | Android | iOS | App Store & Play Store Delivery</sub>
     </td>    
@@ -309,7 +297,7 @@
       <br/>
       <b><a href="https://github.com/ubaidxdev">Ubaid Ullah</a></b>
       <br/>
-      <img src="https://img.shields.io/badge/Role-Mobile%20Engineer%20&%20Backend%20Architect-yellow?style=flat"/>
+      <img src="https://img.shields.io/badge/Role-COO-yellow?style=flat"/>
       <br/>
       <sub>Flutter | Firebase | REST APIs | System Design | Architecture</sub>
     </td>
@@ -317,6 +305,7 @@
 </table>
 
 ---
+
 
 
 <!-- ===================== WHY CHOOSE XDEVSOFT0? ===================== -->
