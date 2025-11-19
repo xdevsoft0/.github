@@ -48,7 +48,7 @@
   </b>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=36BCF7&center=true&vCenter=true&width=800&lines=Meet+the+brains+behind+XDEVSOFT0!;Diverse+talents,+one+vision." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=600&color=36BCF7&center=true&vCenter=true&width=800&lines=Meet+the+brains+behind+XDEV SOFT!;Diverse+talents,+one+vision." />
 </p>
 
 ---
